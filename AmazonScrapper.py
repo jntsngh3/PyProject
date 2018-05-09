@@ -6,10 +6,10 @@ from tweepy import *
 import tweepy
 import time
 
-consumer_key = 'cujbknKffQfOrZNwq5NoqPfNP'
-consumer_secret = 'vKAYadwi77IMveroNSqGmEDz0hVoNEn6LeIrelew6ya29mRjLs'
-access_token = '2830219376-Sjk8YvZtWSdxZxdZyy5t91wtwIHd2FYpAadWnmJ'
-access_token_secret = 'RAhkc6SY72fkolUfAjCnFO5yfKcOkqlxtjluh0Ece9Xqj'
+consumer_key = '****'
+consumer_secret = '****'
+access_token = '***-***'
+access_token_secret = '***'
 
 auth = OAuthHandler(consumer_key, consumer_secret)
 auth.set_access_token(access_token, access_token_secret)
